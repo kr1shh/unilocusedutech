@@ -1,0 +1,62 @@
+/*
+============================
+Theme Name: Visafast
+Theme URI: https://consultia.fleexstudio.com
+Author: VikingLab
+Author URI: https://themeforest.net/user/vikinglab/portfolio
+Description: Visafast - Visa consulting Template
+Version: 1.0.0
+License: GNU General Public License v1 or later
+License URI: LICENSE
+Text Domain: eduker
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+============================
+*/
+
+/*
+============================
+Name:  Visafast Consulting Theme
+Version: 1.0.0
+Description:
+Author: Noyon Ahemd
+Author URI:
+Location:
+============================
+*/
+
+
+
+.bg-video-wrap{
+    height: 100vh;
+
+    .hero-img-container{
+        background-image: url("./assets/img/image/hero-bg-images.jpeg");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: flex;
+        justify-content: space-between;
+        padding: 100px 10px;
+
+        @media(min-width:640px){
+        padding: 150px 160px;
+        }
+
+
+
+        .item{
+            width: 130px;
+            height: 130px;
+            padding: 10px;
+            border-radius: 12px;
+            background-color: white;
+            z-index: 10;
+            img{
+                width: 100%;
+            }
+        }
+    }
+}
