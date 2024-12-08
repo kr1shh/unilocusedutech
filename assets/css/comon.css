@@ -1363,7 +1363,7 @@ transition: all.4s;
 }
 
 .hadding7 h4:hover {
-  color: #B51DEE;
+  color: #003d5e;
 }
 
 .progress-list-number h4 span {
@@ -1371,7 +1371,7 @@ transition: all.4s;
 }
 
 .progress-list-box.progress-list-box2:hover .progress-list-number h4 span {
-  color: #B51DEE;
+  color: #003d5e;
   transition: all.4s;
 }
 
