@@ -60,3 +60,14 @@ Location:
         }
     }
 }
+
+
+.tes7-slider-single{
+    .image-container{
+        width: 200px;
+
+        img{
+            width: 100%;
+        }
+    }
+}

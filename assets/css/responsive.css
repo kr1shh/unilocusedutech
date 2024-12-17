@@ -979,7 +979,7 @@ line-height: 40px;
 
     .tes7-slider-all.owl-carousel.owl-loaded.owl-drag {
         margin-left: 0;
-        margin-top: -100px;
+        /* margin-top: -100px; */
     }
 
     .tes7-main-image {

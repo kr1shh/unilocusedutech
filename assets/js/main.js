@@ -265,10 +265,13 @@
           slideSpeed: 600,
           responsive: {
             0: {
-              items: 1,
+              items: 1.3,
+            },
+            768: {
+              items: 2.75,
             },
             900: {
-              items: 2.7,
+              items: 4.35,
             },
           },
         });
