@@ -71,3 +71,17 @@ Location:
         }
     }
 }
+
+
+h1{
+    font-size: 24px !important;
+}
+
+.footer-area{
+    background-color: #212529;
+    color: white;
+
+    p{
+        color: white;
+    }
+}

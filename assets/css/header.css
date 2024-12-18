@@ -221,7 +221,7 @@ li.has-dropdown1 span {
   animation-duration: 1s;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
-  background-color: #181A1C;
+  background-color: #212529;
   transition: all 0.3s ease-in-out;
   z-index: 99999;
 }
